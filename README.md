@@ -47,8 +47,10 @@ This project analyzes **coffee sales data** from different regions, helping iden
 
 ## 📂 **Explore the Project**  
 
-🔗 **Dataset:** [Download Here](#)  
-🔗 **Dashboard:** [View Interactive Report](#)  
+📥 **[Download Dataset](https://github.com/CatarinaPinheiro-datanalyst/CoffeeSales--Excel/raw/main/coffeeOrdersData.xlsx)**  
+📥 **[Download Dashboard](https://github.com/CatarinaPinheiro-datanalyst/CoffeeSales--Excel/raw/main/coffeeOrdersProject.xlsx)**
+
+---
 
 📧 **Connect with me on LinkedIn** – [Catarina Pinheiro](https://www.linkedin.com/in/catarina-pinheiro-a1b987186/)  
 
